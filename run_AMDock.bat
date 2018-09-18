@@ -1,0 +1,1 @@
+".\python.exe" ".\run_AMDock.py"
