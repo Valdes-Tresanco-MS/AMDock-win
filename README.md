@@ -8,7 +8,7 @@ files under user’s supervision.
 
 **INSTALL**
 
--unzip the *.zip fil
+-unzip the *.zip file
 
 
 -run AMDock.exe. If you wish, you can create a program shortcut where you want or simply pin it to Start.
