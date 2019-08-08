@@ -1,4 +1,4 @@
-from PyQt4 import QtGui,QtCore
+from PyQt4 import QtGui, QtCore
 import sys
 from AMDock.splash_screen import SplashScreen
 from AMDock.Docking_Program import AMDock
