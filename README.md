@@ -7,7 +7,7 @@ files, define the search space (box) and perform docking under user’s supervis
 
 **DOCUMENTATION**
 
-A manual and folders containing the files for each of one of the tutorials in the manual are located in **Doc** folder
+A manual and the folders containing the files for each of one of the tutorials in the manual are located in **Doc** folder
 
 **INSTALLATION**
 
