@@ -1,0 +1,2 @@
+Specials thanks to:
+-Geng Dong of Shantou University Medical College, China, openbabel environment variables information
