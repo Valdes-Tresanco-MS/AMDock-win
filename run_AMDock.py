@@ -2,23 +2,23 @@ from PyQt4 import QtGui, QtCore
 import sys
 from AMDock.splash_screen import SplashScreen
 from AMDock.Docking_Program import AMDock
-from AMDock.variables import Objects as ob
-
+from AMDock.variables import Variables
 
 def run():
     if __name__ == "__main__":
         app = QtGui.QApplication(sys.argv)
         app_icon = QtGui.QIcon()
+        v = Variables()
         # dw = QtGui.QDesktopWidget()
-        app_icon.addFile(ob.app_icon, QtCore.QSize(16, 20))
-        app_icon.addFile(ob.app_icon, QtCore.QSize(24, 30))
-        app_icon.addFile(ob.app_icon, QtCore.QSize(32, 40))
-        app_icon.addFile(ob.app_icon, QtCore.QSize(48, 60))
-        app_icon.addFile(ob.app_icon, QtCore.QSize(223, 283))
+        app_icon.addFile(v.app_icon, QtCore.QSize(16, 20))
+        app_icon.addFile(v.app_icon, QtCore.QSize(24, 30))
+        app_icon.addFile(v.app_icon, QtCore.QSize(32, 40))
+        app_icon.addFile(v.app_icon, QtCore.QSize(48, 60))
+        app_icon.addFile(v.app_icon, QtCore.QSize(223, 283))
         app.setStyle("cleanlooks")
         app.setWindowIcon(app_icon)
         app.setApplicationName('AMDock: Assisted Molecular Docking for AutoDock and AutoDock Vina')
-        splash = SplashScreen(QtGui.QPixmap(ob.splashscreen_path), app)
+        splash = SplashScreen(QtGui.QPixmap(v.splashscreen_path), app)
         main = AMDock()
         splash.finish(main)
         main.setMinimumSize(1080, 740)
