@@ -3,7 +3,7 @@ AMDock (Assisted Molecular Docking) is a user-friendly graphical tool to assist 
 complexes using Autodock-Vina or AutoDock4. This tool integrates several external programs for processing docking input 
 files, define the search space (box) and perform docking under user’s supervision.
 
-**Build 1.1.2**
+**Build 1.3.8**
 
 **DOCUMENTATION**
 
@@ -17,11 +17,12 @@ AMDock Windows version doesn´t need to be "installed". Just:
 
 and,
 
--run AMDock.exe. If you wish, you can create a program shortcut where you want or simply pin it to Start.
+-run AMDock.exe. 
+
+If you wish, you can create a program shortcut where you want or simply pin it to Start.
 
 **UNINSTALLATION**
 
 Just search the installation directory and delete it.
-
 
 To view the update history, please check Changes_History file

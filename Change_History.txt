@@ -1,3 +1,9 @@
+#Build 1.3.8
+-Graphical interface improvements
+-fixed some inconsistencies
+-improved user experience
+-added more options
+-added functionalities for better results in search space definition
 #Build 1.1.2
 -Graphical interface improvements
 -fixed some inconsistencies
