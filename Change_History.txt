@@ -1,3 +1,7 @@
+#Build 1.4.x
+-Changed the way that objects are selected to center in binding site determination from AutoLigand. Now by default all
+are selected and at each site previously determined docking are made. The results show the affinities for each pose.
+-Changed the way that results are visualized
 #Build 1.3.8
 -Graphical interface improvements
 -fixed some inconsistencies
