@@ -9,7 +9,7 @@ files, define the search space (box) and perform docking under user’s supervis
 
 A manual and the folders containing the files for each of one of the tutorials in the manual are located in **Doc** folder
 
-**INSTALLATION**
+**INSTALL (Windows)**
 
 AMDock Windows version doesn´t need to be "installed". Just:
 
@@ -21,7 +21,7 @@ and,
 
 If you wish, you can create a program shortcut where you want or simply pin it to Start.
 
-**UNINSTALLATION**
+**UNINSTALL**
 
 Just search the installation directory and delete it.
 
