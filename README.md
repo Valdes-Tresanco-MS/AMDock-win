@@ -26,3 +26,7 @@ If you wish, you can create a program shortcut where you want or simply pin it t
 Just search the installation directory and delete it.
 
 To view the update history, please check `Changes_History` file
+
+**TUTORIALS**
+
+Please, check the wiki https://github.com/Valdes-Tresanco-MS/AMDock-win/wiki
