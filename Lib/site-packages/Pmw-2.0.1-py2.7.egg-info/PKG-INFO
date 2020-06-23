@@ -1,0 +1,23 @@
+Metadata-Version: 1.1
+Name: Pmw
+Version: 2.0.1
+Summary: Python Mega Widgets
+Home-page: http://sourceforge.net/projects/pmw
+Author: Telstra Corporation Limited, Australia
+Author-email: UNKNOWN
+License: BSD
+Description: Pmw is a toolkit for building high-level compound widgets, or megawidgets,
+            constructed using other widgets as component parts. It promotes consistent look and feel within
+             and between graphical applications, is highly configurable to your needs and is easy to use.
+Platform: UNKNOWN
+Classifier: Development Status :: Alpha
+Classifier: Environment :: Console
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: BSD
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX
+Classifier: Programming Language :: Python
+Classifier: Topic :: GUI
