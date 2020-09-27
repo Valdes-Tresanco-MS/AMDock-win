@@ -9,6 +9,11 @@ files, define the search space (box) and perform docking under user’s supervis
 
 A manual and the folders containing the files for each of one of the tutorials in the manual are located in **Doc** folder
 
+**Cite us**
+
+Valdes-Tresanco, M.S., Valdes-Tresanco, M.E., Valiente, P.A. and Moreno E. AMDock: a versatile graphical tool for
+ assisting molecular docking with Autodock Vina and Autodock4. Biol Direct 15, 12 (2020). https://doi.org/10.1186/s13062-020-00267-2
+
 **INSTALL (Windows)**
 
 AMDock Windows version doesn´t need to be "installed". Just:
