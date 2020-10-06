@@ -1,7 +1,7 @@
 # Changes History
 ##Version 1.5.x
-- Added keep metals option
-- User-define metal
+- Added keep metals option (Experimental)
+- User-define metal charge (Experimental)
 - User-define AD4 parameters file
 ##Version 1.4.x
 - *Publication in Biology Direct*
