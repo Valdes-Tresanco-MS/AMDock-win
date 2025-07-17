@@ -1,4 +1,4 @@
-# AMDock: **A***ssisted* **M***olecular* **Dock***ing with Autodock4 and Autodock Vina with PLIP (Protein-Ligand Interaction Profiler) integration*
+# AMDock: **A***ssisted* **M***olecular* **Dock***ing with Autodock4 and Autodock Vina*
 AMDock (Assisted Molecular Docking) is a user-friendly graphical tool to assist in the docking of protein-ligand 
 complexes using Autodock-Vina or AutoDock4. This tool integrates several external programs for processing docking input 
 files, define the search space (box) and perform docking under user’s supervision, then analyze the results using PLIP integration.
@@ -52,6 +52,10 @@ Manual, tutorials and test files are located in **Doc** folder. (May be out of d
 Valdes-Tresanco, M.S., Valdes-Tresanco, M.E., Valiente, P.A. and Moreno E. AMDock: a versatile graphical tool for
  assisting molecular docking with Autodock Vina and Autodock4. Biol Direct 15, 12 (2020). https://doi.org/10.1186/s13062-020-00267-2
  
+
+## Contributors
+
+- **PLIP Integration**: Enhanced AMDock with PLIP (Protein-Ligand Interaction Profiler) integration for comprehensive interaction analysis
 
 ### Support
 This project is possible thanks to the Open Source license of the 
